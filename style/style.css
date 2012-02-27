@@ -1,0 +1,67 @@
+/*  
+Theme Name: Rogic Blog
+Description: Custom theme for the Rogic Blog
+Version: 1.0
+Original Author: SnowyDay Design
+Original Author URI: http://www.snowydaydesign.com/
+
+Ruiened by: @billdeys
+*/
+
+body {
+	font-size: 62.5%; /* Resets 1em to 10px */
+	font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	color: #555;
+	text-align: center;
+	}
+	
+#primary {
+	width: 100%;
+	height: 28px;
+	background-color: #fafaf6;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	padding-top: 14px;
+	font: bold 13px "DroidSansBold", Verdana, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	}
+#primary ul li {
+	display: inline;
+	padding-left: 43px;
+	}
+#primary li a {
+	padding: 5px 15px;
+	color: #64645d;
+	}
+#primary li a:hover {
+	color: #dc692e;
+	background: #efefe9;
+	
+	}
+	
+	
+
+#page {
+        background: #fff url(images/logobkg.jpg) top;
+        background-repeat: repeat-y;
+	text-align: left;
+        border-left: 1px solid #ccc;
+        border-right: 1px solid #ccc;
+	}
+#logo {
+	position: absolute;
+	top: 8px;
+	left: 390px;
+	background: url(images/cpc_header2.gif) no-repeat;
+	-webkit-transition: opacity .75s ease-in-out;
+	-moz-transition: opacity .75s ease-in-out;
+	-o-transition: opacity .75s ease-in-out;
+	transition: opacity .75s ease-in-out;
+
+	}
+logo:hover {
+     opacity: .70;
+}
+	
+	
