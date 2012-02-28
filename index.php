@@ -1,4 +1,7 @@
+<!DOCTYPE html>
+<html>
 <head>
+	<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 <title>The home of Canadian podcasting - CanadaPodcasts.ca</title>
 <link rel="stylesheet" type="text/css" href="/style/style.css">
 </head>
